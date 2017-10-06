@@ -1,7 +1,7 @@
 # Open Fridge
 An app where the user can find recipes based on the ingredients in their fridge.
 
-https://melheins.github.io/open-fridge-web-app/
+https://ksatter.github.io/open-fridge-web-app/
 ## App Specifications
 * Users can add ingredients to an ingredient list.
 * Users can search for recipes with all the ingredients in their ingredient list.
